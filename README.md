@@ -163,8 +163,8 @@ HTTP POST para atualização do saldo em conta..
 ## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Recursos utilizados:
 
 - **[NodeJS](https://nodejs.org/en/)**
-- **[winston]()**
-- **[nodemon]()**
+- **[winston](https://www.npmjs.com/package/winston)**
+- **[nodemon](https://nodemon.io/)**
 - **[Json](https://www.w3schools.com/js/js_json_intro.asp)**
 - **[Express](http://expressjs.com/)**
 - **[Insomnia](https://insomnia.rest/download/)**
