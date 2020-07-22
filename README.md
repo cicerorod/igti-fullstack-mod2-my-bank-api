@@ -180,7 +180,7 @@ HTTP POST para atualização do saldo em conta..
 
 ## ![](https://img.icons8.com/windows/20/000000/regular-document.png) Licença
 
-Este projeto está sob a licença do MIT. Consulte o [LICENSE](https://github.com/cicerorod/igti-fullstack-mod2-my-bank-api/blob/master/LICENSE) para obter mais informações.
+Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/cicerorod/igti-fullstack-mod2-my-bank-api/blob/master/LICENSE) para obter mais informações.
 
 ## ![](https://img.icons8.com/ios-glyphs/22/000000/code-file.png) Desenvolvedor
 
