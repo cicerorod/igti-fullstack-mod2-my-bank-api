@@ -1,6 +1,6 @@
 # Operações Bancárias via API RestFull
 
-Aplicalção para disponibilizar via API RestFull informações sobre saldo em conta de usuários desenvolvido no bootcamp fullstack da IGTI
+Aplicação para disponibilizar via API RestFull informações sobre saldo em conta de usuários desenvolvido no bootcamp fullstack da IGTI.
 
 ## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Insomnia
 
@@ -8,17 +8,12 @@ Aplicalção para disponibilizar via API RestFull informações sobre saldo em c
   <img src="https://github.com/cicerorod/igti-fullstack-mod2-my-bank-api/blob/master/img/tela.PNG">
 </p>
 
-<!--
-## ![](https://img.icons8.com/ios-glyphs/20/000000/api.png)  API
-
-`<link>` : <https://randomuser.me/api/?seed=javascript&results=100&nat=BR&noinfo> -->
-
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução
 
-1. Clonar o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/igti-fullstack-mod2-my-bank-api.git`
-2. Acessar a pasta principal do projeto via prompt de comando;
-3. Executar o comando `yarn` para baixar as dependências;
-4. Executar o comando `yarn start`
+1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: `git clone https://github.com/cicerorod/igti-fullstack-mod2-my-bank-api.git`
+2. Acessar a pasta principal do projeto via prompt de comando.  Ex: `cd igti-fullstack-mod2-my-bank-api`;
+3. Executar o comando `yarn` para baixar as dependências. Ex: `yarn`;
+4. Executar o comando `yarn start`. Ex: `yarn start`
 5. Acessar o endereço `http://localhost:4000/account` conforme rotas definidos no item rotas
 
 ### ![](https://img.icons8.com/metro/20/000000/run-command.png) Rotas
@@ -50,7 +45,7 @@ HTTP GET solicitação que retorna uma resposta JSON contendo as contas cadastra
 
 #### `/account/`
 
-HTTP POST para inserção de registros. O formato da solicitação é JSON.
+HTTP POST para inserção de registros.
 
 ##### `Post`: `http://localhost:4000/account/`
 
@@ -77,7 +72,7 @@ HTTP POST para inserção de registros. O formato da solicitação é JSON.
 
 #### `/account/id`
 
-HTTP GET solicitação que retorna uma resposta JSON contendo as informações do `id` pesquisado.
+HTTP GET solicitação que retorna um JSON contendo as informações do `id` pesquisado.
 
 ##### `GET`: `http://localhost:4000/account/id`
 
@@ -95,7 +90,7 @@ HTTP GET solicitação que retorna uma resposta JSON contendo as informações d
 
 #### `/account/`
 
-HTTP PUT, solicitação que atualição informações de contas.
+HTTP PUT, solicitação que atualiza as informações de contas.
 
 ##### `PUT`: `http://localhost:4000/account/`
 
@@ -139,7 +134,7 @@ HTTP DEL, solicitação para excluir um registro referente ao `id`.
 
 #### `/account/transacao`
 
-HTTP POST para atualização de saldo em conta..
+HTTP POST para atualização do saldo em conta..
 
 ##### `Post`: `http://localhost:4000/account/transacao`
 
