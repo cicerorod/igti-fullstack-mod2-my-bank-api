@@ -1,4 +1,4 @@
-# Operações Bancárias via API RestFull
+# Operações Bancárias via API RestFull         ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 
 Aplicação para disponibilizar via API RestFull informações sobre saldo em conta de usuários desenvolvido no bootcamp fullstack da IGTI.
 
@@ -177,6 +177,10 @@ HTTP POST para atualização do saldo em conta..
 3. Faça o _commit_ (`git commit -am 'Add files [nome]'`)
 4. _Push_ (`git push origin feature/[nome]`)
 5. Crie um novo _Pull Request_
+
+## ![](https://img.icons8.com/windows/20/000000/regular-document.png) Licença
+
+Este projeto está sob a licença do MIT. Consulte o [LICENSE](https://github.com/cicerorod/igti-fullstack-mod2-my-bank-api/blob/master/LICENSE) para obter mais informações.
 
 ## ![](https://img.icons8.com/ios-glyphs/22/000000/code-file.png) Desenvolvedor
 
